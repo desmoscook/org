@@ -1,0 +1,22 @@
+* TODO leetcode
+SCHEDULED: <2024-06-18 Wed 23:00 .+1d>
+** DONE 6-19
+CLOSED: [2024-06-20 Thu 01:17]
+*** DONE 39 组合总和
+CLOSED: [2024-06-20 Thu 01:17]
+*** DONE 216 组合总和3
+CLOSED: [2024-06-20 Thu 01:17]
+*** DONE 77 组合
+CLOSED: [2024-06-20 Thu 01:17]
+** DONE 6-20
+CLOSED: [2024-06-20 Thu 01:17]
+*** DONE 78 子集
+CLOSED: [2024-06-20 Thu 01:07]
+*** DONE 46 全排列 
+CLOSED: [2024-06-20 Thu 01:16]
+:LOGBOOK:
+CLOCK: [2024-06-20 Thu 01:07]--[2024-06-20 Thu 01:16] =>  0:09
+:END:
+
+* TODO ros learn
+* TODO ros project
