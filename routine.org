@@ -1,4 +1,4 @@
-* TODO leetcode
+* leetcode
 SCHEDULED: <2024-06-18 Wed 23:00 .+1d>
 ** DONE 6-19
 CLOSED: [2024-06-20 Thu 01:17]
@@ -18,5 +18,6 @@ CLOSED: [2024-06-20 Thu 01:16]
 CLOCK: [2024-06-20 Thu 01:07]--[2024-06-20 Thu 01:16] =>  0:09
 :END:
 
-* TODO ros learn
-* TODO ros project
+* note
+* ros learn
+* blog

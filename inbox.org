@@ -1,0 +1,11 @@
+* TODO emacs [%]
+** TODO file tree
+treemacs or SPT f t
+** TODO var and func tag
+** TODO magit
+** TODO clang
+** TODO github copilot
+https://github.com/copilot-emacs/copilot.el
+** TODO find file and search string
+** TODO ctrl + i move forward
+** TODO move .spacemacs to github config
