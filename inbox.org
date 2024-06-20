@@ -1,11 +1,27 @@
-* TODO emacs [%]
-** TODO file tree
-treemacs or SPT f t
-** TODO var and func tag
-** TODO magit
-** TODO clang
-** TODO github copilot
+* emacs
+** Config [40%]
+*** TODO var and func tag
+*** TODO tab for auto completion
+*** DONE clang completion
+CLOSED: [2024-06-21 Fri 02:48]
+*** DONE github copilot
+CLOSED: [2024-06-21 Fri 19:05]
 https://github.com/copilot-emacs/copilot.el
-** TODO find file and search string
-** TODO ctrl + i move forward
-** TODO move .spacemacs to github config
+*** TODO ctrl + i move forward
+*** TODO move .spacemacs to github config
+*** TODO easymotion upgrade
+
+** Use [20%]
+*** START how to close file in buffer
+*** TODO find file and search string
+search string
+- /
+- SPC / : search in project
+- SPC s b : search in opened buffer
+
+search files
+- SPC f f : search file in current dir
+*** TODO magit
+*** TODO how to ssh to server with config
+*** DONE file tree
+CLOSED: [2024-06-21 Fri 02:48]
