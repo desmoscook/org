@@ -1,19 +1,24 @@
 * emacs
-** Config [40%]
-*** TODO var and func tag
-*** TODO tab for auto completion
+** Config [62%]
+*** TODO ctag page
+*** TODO ctrl + i move forward
+*** TODO flycheck config
+*** DONE move .spacemacs to github config
+CLOSED: [2024-06-25 Tue 02:10]
+*** DONE tab for auto completion
+CLOSED: [2024-06-25 Tue 02:10]
 *** DONE clang completion
 CLOSED: [2024-06-21 Fri 02:48]
 *** DONE github copilot
 CLOSED: [2024-06-21 Fri 19:05]
 https://github.com/copilot-emacs/copilot.el
-*** TODO ctrl + i move forward
-*** TODO move .spacemacs to github config
-*** TODO easymotion upgrade
+*** CANCELED easymotion upgrade
+CLOSED: [2024-06-24 Mon 10:50]
 
-** Use [20%]
-*** START how to close file in buffer
-*** TODO find file and search string
+** Use [33%]
+*** DONE how to close file in buffer
+CLOSED: [2024-06-24 Mon 10:49]
+*** START find file and search string
 search string
 - /
 - SPC / : search in project
@@ -21,7 +26,17 @@ search string
 
 search files
 - SPC f f : search file in current dir
-*** TODO magit
+*** START magit
+how to add two args in magit
 *** TODO how to ssh to server with config
-*** DONE file tree
+*** TODO workspace manage
+
+*** DONE file tree : treemacs
 CLOSED: [2024-06-21 Fri 02:48]
+cf : create a file
+cd : create a directory
+R  : rename
+
+
+* Code
+** 无法用图表示出代码的逻辑关系

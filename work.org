@@ -1,2 +1,44 @@
-** TODO find error OnInit() failed
-node_config_file_snapshots in ProcessContext is nullptr
+* Hil
+** 6.19
+*** DONE find error OnInit() failed
+CLOSED: [2024-06-25 Tue 01:54]
+- node_config_file_snapshots in ProcessContext is nullptr
+- because code_context should config by NodeLauch
+** 6.20
+*** DONE unit test of micar
+CLOSED: [2024-06-25 Tue 14:13]
+*** CANCELED write writer of channel
+CLOSED: [2024-06-25 Tue 14:13]
+*** DONE open up the message path from channel to can
+CLOSED: [2024-06-25 Tue 15:14]
+** 6.24
+*** DONE use different can cards to dispatch corresponding message [100%]
+CLOSED: [2024-06-25 Tue 11:20]
+**** DONE can_client_map
+CLOSED: [2024-06-25 Tue 21:14]
+**** DONE can_sender
+CLOSED: [2024-06-25 Tue 21:14]
+**** DONE chassis_down
+CLOSED: [2024-06-25 Tue 11:20]
+**** DONE micar_factory init
+CLOSED: [2024-06-25 Tue 21:14]
+*** DONE joint debugging channel with hcy
+CLOSED: [2024-06-25 Tue 01:52]
+:LOGBOOK:
+CLOCK: [2024-06-24 Mon 09:42]--[2024-06-24 Mon 10:35] =>  0:53   write channel_writter of hil_node
+:END:
+
+** 6.25
+*** DONE refactor client_map
+CLOSED: [2024-06-25 Tue 11:20]
+*** DONE can_receiver use client_map
+CLOSED: [2024-06-25 Tue 23:34]
+:LOGBOOK:
+CLOCK: [2024-06-25 Tue 17:17]--[2024-06-25 Tue 23:34] =>  6:17
+:END:
+*** TODO add activate signal
+*** TODO micar message manager line 102 get chassisdetail is null
+** 6.26
+*** TODO optimize can_receiver 
+* TODO
+** TODO output the document of c++ style

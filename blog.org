@@ -1,0 +1,19 @@
+正如官网上的这句话: The best editor is neither Emacs nor Vim, it's Emacs and Vim!
+Spacemacs社区的目地仿佛是为了消除Emacs和Vim之间的战争。
+而在我看来，Spacemacs的出现是为了综合Emacs和Vim的长处，让更多的Vimer可以在其中体验Emacs。
+
+
+spacemace拥有更高的集成度,更易配置
+
+
+# Org mode
+C-c [ : 将当前的文件加入agenda
+SPC m T T ：显示toggle列表
+
+* magit
+** magit status
+- u unstage
+- s stage
+- k discard
+
+c-c c-c确认当前的message

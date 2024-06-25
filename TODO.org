@@ -1,0 +1,12 @@
+* TODO 发展对象材料
+DEADLINE: <2024-06-28 Fri>
+** TODO 打印材料
+** TODO 问怎么获取自传和入党自愿书
+** TODO 填写
+
+* TODO work
+** TODO record why pointer is not nullptr but is when return
+** TODO record code optimizer
+** TODO organize hil document
+- [ ] UML graph
+- [ ] message of channel, grpc, udp
